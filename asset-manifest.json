@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movecircle/static/css/main.3dccc34c.css",
+    "main.js": "/movecircle/static/js/main.817d1807.js",
+    "static/js/787.0fb9b3d3.chunk.js": "/movecircle/static/js/787.0fb9b3d3.chunk.js",
+    "static/media/logo.svg": "/movecircle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/movecircle/index.html",
+    "main.3dccc34c.css.map": "/movecircle/static/css/main.3dccc34c.css.map",
+    "main.817d1807.js.map": "/movecircle/static/js/main.817d1807.js.map",
+    "787.0fb9b3d3.chunk.js.map": "/movecircle/static/js/787.0fb9b3d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dccc34c.css",
+    "static/js/main.817d1807.js"
+  ]
+}
